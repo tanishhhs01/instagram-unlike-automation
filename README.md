@@ -3,7 +3,6 @@
 > A browser-based automation script to help clean up Instagram's liked posts faster.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![Instagram](https://img.shields.io/badge/Instagram-Automation-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
